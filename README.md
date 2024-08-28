@@ -4,7 +4,7 @@ I'm a software engineer passionate about building impactful solutions.
 
 ### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishal16&show_icons=true&hide_title=true&count_private=true&theme=graywhite&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishal16&show_icons=true&hide_title=true&count_private=true&theme=graywhite&cache_seconds=1)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal16&layout=compact&langs_count=8&hide_title=true&theme=graywhite)
 
 
