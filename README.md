@@ -1,15 +1,15 @@
-# Hi there, I'm Mahathir Bishal! 👋
+## Hi there, I'm Mahathir Bishal! 👋
 
 I'm a software engineer passionate about building impactful solutions.
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishal16&show_icons=true&hide_title=true&count_private=true&theme=graywhite&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal16&layout=compact&langs_count=8&hide_title=true&theme=graywhite)
 
 
 
-## ⚡ Technologies I Work With
+### ⚡ Technologies I Work With
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -27,7 +27,7 @@ I'm a software engineer passionate about building impactful solutions.
 
 
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahathir-bishal-7b493b15a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bishal16)
