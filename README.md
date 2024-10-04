@@ -1,4 +1,4 @@
-## Hi there, I'm Mahathir Bishal! 👋
+## Hi there, I'm Mahathir! 👋
 
 I'm a software engineer passionate about building impactful solutions.
 
